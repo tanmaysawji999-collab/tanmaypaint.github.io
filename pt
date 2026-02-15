@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tanmay Paints and Service</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+
+body{
+font-family: Arial;
+margin:0;
+background:#f0f2f5;
+}
+
+header{
+background:linear-gradient(90deg,#0077cc,#00c6ff);
+color:white;
+padding:30px;
+text-align:center;
+}
+
+.container{
+padding:20px;
+}
+
+.card{
+background:white;
+padding:20px;
+margin:15px 0;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+.button{
+display:inline-block;
+padding:15px 25px;
+background:#25D366;
+color:white;
+text-decoration:none;
+border-radius:8px;
+margin:10px 0;
+}
+
+.call{
+background:#0077cc;
+}
+
+footer{
+background:#222;
+color:white;
+text-align:center;
+padding:15px;
+margin-top:20px;
+}
+
+.whatsapp-float{
+position:fixed;
+bottom:20px;
+right:20px;
+background:#25D366;
+color:white;
+padding:15px;
+border-radius:50%;
+text-decoration:none;
+font-size:20px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>Tanmay Paints and Service</h1>
+<p>Authorized Berger Paint Dealer | Professional Painting</p>
+</header>
+
+<div class="container">
+
+<div class="card">
+<h2>Our Services</h2>
+<p>✔ Interior Painting</p>
+<p>✔ Exterior Painting</p>
+<p>✔ Wall Putty</p>
+<p>✔ Texture Design</p>
+<p>✔ Waterproofing</p>
+</div>
+
+<div class="card">
+<h2>Order Paint</h2>
+<a class="button" href="https://wa.me/919534199350">
+Order on WhatsApp
+</a>
+</div>
+
+<div class="card">
+<h2>Book Painting Service</h2>
+<a class="button" href="https://wa.me/919534199350">
+Book Free Site Visit
+</a>
+</div>
+
+<div class="card">
+<h2>Contact Us</h2>
+<p>Phone: 9534199350</p>
+<p>Location: Gomia Bank More, Bokaro</p>
+
+<a class="button call" href="tel:9534199350">
+Call Now
+</a>
+
+</div>
+
+</div>
+
+<a href="https://wa.me/919534199350" class="whatsapp-float">
+💬
+</a>
+
+<footer>
+© 2026 Tanmay Paints and Service
+</footer>
+
+</body>
+</html>
